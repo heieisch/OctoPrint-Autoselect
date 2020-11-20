@@ -63,7 +63,7 @@ class AutoselectPlugin(octoprint.plugin.EventHandlerPlugin):
 				current=self._plugin_version,
 
 				# update method: pip
-				pip="https://github.com/OctoPrint/OctoPrint-AutoSelect/archive/{target_version}.zip"
+				pip="https://github.com/heieisch/OctoPrint-AutoSelect/archive/{target_version}.zip"
 			)
 		)
 
