@@ -11,4 +11,4 @@ job running.
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/OctoPrint/OctoPrint-Autoselect/archive/master.zip
+    https://github.com/heieisch/OctoPrint-Autoselect/archive/master.zip
